@@ -45,7 +45,7 @@
   "dependencies": {
     "express": "^4.13.3",
     "faye-websocket": "^0.10.0",
-    "influx": "^4.0.1"
+    "influx": "^5.0.0"
   },
   "optionalDependencies": {
     "usage": "^0.7.0",
